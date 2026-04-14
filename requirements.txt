@@ -1,4 +1,4 @@
 streamlit
 google-genai
 python-docx
-python-hwpx
+
